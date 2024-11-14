@@ -3,6 +3,12 @@
 <br>
 <img src='liveTimeClock.png'>
 
+## My Learning 📗🔖
+> First time used or real use of these
+> 
+🖊️ setInterval() <br>
+🖊️ new Date(); <br>
+
 
 ## Features 📋
 ⚡️ \
