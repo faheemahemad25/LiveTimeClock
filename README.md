@@ -1,5 +1,5 @@
 # Live Time Clock website 🕐
-> A clean, beautiful, #responsive Live Time Clock.
+> A clean, beautiful UI and Live Time Clock.
 <br>
 <img src='liveTimeClock.png'>
 
