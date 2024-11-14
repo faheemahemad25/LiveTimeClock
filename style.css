@@ -1,0 +1,25 @@
+body{
+    background-color: #212121;
+    color: #d6d6d6;
+}
+#clock{
+    /* width: 120px;
+    height: 50px; */
+    background-color: rgb(181, 120, 8);
+    border-radius: 10px;
+    margin-top: 10px;
+    padding: 15px;
+    font-size: 30px;  /* font is used to text related work like text size or weight */
+    font-weight: bold;  /* font is used to text related work like text size or weight */
+}
+#banner{
+    font-size: 25px;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;    /* 100vh is a CSS unit that stands for "100% of the viewport height */
+    align-items: center;
+}
+
